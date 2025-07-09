@@ -36,12 +36,6 @@ This project is a Python-based application for extracting, cleaning, and analyzi
      python main.py
      ```
 
-3. **Testing**
-   - Run tests using:
-     ```powershell
-     python test_new_parser.py
-     ```
-
 ## LLM Integration
 The `llms/` directory contains modules for different large language models. Each file (e.g., `claude3_5.py`, `llama.py`) likely provides an interface to interact with a specific LLM. Review each file for usage details.
 

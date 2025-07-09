@@ -58,9 +58,3 @@ Results or processed data may be saved in the `outputs/` directory.
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with a clear description of your changes.
-
-## License
-Specify your license here (e.g., MIT, GPL, etc.).
-
-## Contact
-For questions or support, contact the project maintainer.
